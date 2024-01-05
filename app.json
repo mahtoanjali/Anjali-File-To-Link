@@ -13,10 +13,10 @@
       "media",
       "bot"
     ],
-  "repository": "https://github.com/Itz-JEOL/File-To-Link/",
+  "repository": "https://github.com/mahtoanjali/Anjali-File-To-Link",
   "success_url": "/",
-  "logo": "https://graph.org/file/3421895411af26c3da183.jpg",
-  "website": "http://jeol.tech",
+  "logo": "https://te.legra.ph/file/471ef129b9c1b479676fd.jpg",
+  "website": "https://t.me/QUEENx_GOD",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
